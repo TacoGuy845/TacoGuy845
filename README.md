@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TacoGuy845
-- 👀 I’m interested in game and app development with Python
-- 🌱 I’m currently learning Python and Ren'py
-- 💞️ I’m looking to collaborate on... at the moment, I am working alone (indie developer)
+- 👀 I’m interested in game development with Unity (C#)
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on... at the moment, I am working as an indie.
 - 📫 How to reach me, tacodeveloper845@gmail.com
 
 <!---
